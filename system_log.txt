@@ -1,0 +1,267 @@
+2024-12-11 07:10:31 Added Ticket-1
+2024-12-11 07:10:31 Removed Ticket-1
+2024-12-11 07:10:31 Customer 1 purchased Ticket-1
+2024-12-11 07:10:32 Added Ticket-2
+2024-12-11 07:10:32 Removed Ticket-2
+2024-12-11 07:10:32 Customer 1 purchased Ticket-2
+2024-12-11 07:10:33 Added Ticket-3
+2024-12-11 07:10:33 Removed Ticket-3
+2024-12-11 07:10:33 Customer 2 purchased Ticket-3
+2024-12-11 07:10:34 Added Ticket-4
+2024-12-11 07:10:34 Removed Ticket-4
+2024-12-11 07:10:34 Customer 2 purchased Ticket-4
+2024-12-11 07:10:34 Customer 1 has finished purchasing.
+2024-12-11 07:10:35 Vendor stopped adding tickets: All tickets listed.
+2024-12-11 07:10:35 Customer 2 has finished purchasing.
+2024-12-11 07:11:43 Added Ticket-1
+2024-12-11 07:11:43 Added Ticket-2
+2024-12-11 07:11:43 Removed Ticket-1
+2024-12-11 07:11:43 Customer 2 purchased Ticket-1
+2024-12-11 07:11:44 Removed Ticket-2
+2024-12-11 07:11:44 Customer 1 purchased Ticket-2
+2024-12-11 07:11:44 Added Ticket-3
+2024-12-11 07:11:44 Added Ticket-4
+2024-12-11 07:11:45 Removed Ticket-3
+2024-12-11 07:11:45 Customer 2 purchased Ticket-3
+2024-12-11 07:11:45 Removed Ticket-4
+2024-12-11 07:11:45 Customer 1 purchased Ticket-4
+2024-12-11 07:11:45 Added Ticket-5
+2024-12-11 07:11:45 Added Ticket-6
+2024-12-11 07:11:46 Removed Ticket-5
+2024-12-11 07:11:46 Customer 2 purchased Ticket-5
+2024-12-11 07:11:46 Removed Ticket-6
+2024-12-11 07:11:46 Customer 1 purchased Ticket-6
+2024-12-11 07:11:46 Added Ticket-7
+2024-12-11 07:11:46 Added Ticket-8
+2024-12-11 07:11:47 Removed Ticket-7
+2024-12-11 07:11:47 Customer 2 purchased Ticket-7
+2024-12-11 07:11:47 Removed Ticket-8
+2024-12-11 07:11:47 Customer 1 purchased Ticket-8
+2024-12-11 07:11:47 Added Ticket-9
+2024-12-11 07:11:47 Added Ticket-10
+2024-12-11 07:11:48 Removed Ticket-9
+2024-12-11 07:11:48 Customer 2 purchased Ticket-9
+2024-12-11 07:11:48 Removed Ticket-10
+2024-12-11 07:11:48 Customer 1 purchased Ticket-10
+2024-12-11 07:11:48 Vendor stopped adding tickets: All tickets listed.
+2024-12-11 07:11:49 Customer 2 has finished purchasing.
+2024-12-11 07:11:49 Customer 1 has finished purchasing.
+2024-12-11 07:17:56 Added Ticket-1
+2024-12-11 07:17:56 Added Ticket-2
+2024-12-11 07:17:56 Added Ticket-3
+2024-12-11 07:17:56 Added Ticket-4
+2024-12-11 07:17:56 Removed Ticket-1
+2024-12-11 07:17:56 Customer 1 purchased Ticket-1
+2024-12-11 07:17:57 Removed Ticket-2
+2024-12-11 07:17:57 Customer 2 purchased Ticket-2
+2024-12-11 07:17:57 Added Ticket-5
+2024-12-11 07:17:57 Added Ticket-6
+2024-12-11 07:17:57 Added Ticket-7
+2024-12-11 07:17:57 Added Ticket-8
+2024-12-11 07:17:57 Removed Ticket-3
+2024-12-11 07:17:57 Customer 1 purchased Ticket-3
+2024-12-11 07:17:58 Removed Ticket-4
+2024-12-11 07:17:58 Customer 2 purchased Ticket-4
+2024-12-11 07:17:58 Added Ticket-9
+2024-12-11 07:17:58 Added Ticket-10
+2024-12-11 07:17:58 Removed Ticket-5
+2024-12-11 07:17:58 Customer 1 purchased Ticket-5
+2024-12-11 07:17:59 Removed Ticket-6
+2024-12-11 07:17:59 Customer 2 purchased Ticket-6
+2024-12-11 07:17:59 Vendor stopped adding tickets: All tickets listed.
+2024-12-11 07:17:59 Removed Ticket-7
+2024-12-11 07:17:59 Customer 1 purchased Ticket-7
+2024-12-11 07:18:00 Removed Ticket-8
+2024-12-11 07:18:00 Customer 2 purchased Ticket-8
+2024-12-11 07:18:00 Removed Ticket-9
+2024-12-11 07:18:00 Customer 1 purchased Ticket-9
+2024-12-11 07:18:01 Removed Ticket-10
+2024-12-11 07:18:01 Customer 2 purchased Ticket-10
+2024-12-11 07:18:01 Customer 1 has finished purchasing.
+2024-12-11 07:18:02 Customer 2 has finished purchasing.
+2024-12-11 09:30:48 Added Ticket-1
+2024-12-11 09:30:48 Removed Ticket-1
+2024-12-11 09:30:48 No tickets available for removal.
+2024-12-11 09:30:48 No tickets available for removal.
+2024-12-11 09:30:49 Added Ticket-2
+2024-12-11 09:30:50 Added Ticket-3
+2024-12-11 09:30:51 Added Ticket-4
+2024-12-11 09:30:52 Added Ticket-5
+2024-12-11 09:30:53 Vendor stopped adding tickets: All tickets listed.
+2024-12-11 09:31:47 No tickets available for removal.
+2024-12-11 09:31:47 No tickets available for removal.
+2024-12-11 09:31:47 Added Ticket-1
+2024-12-11 09:31:48 Added Ticket-2
+2024-12-11 09:31:49 Added Ticket-3
+2024-12-11 09:31:50 Added Ticket-4
+2024-12-11 09:31:51 Added Ticket-5
+2024-12-11 09:31:52 Added Ticket-6
+2024-12-11 09:31:53 Added Ticket-7
+2024-12-11 09:31:54 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:31:55 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:31:56 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:31:57 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:31:58 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:31:59 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:32:00 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:32:01 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:32:02 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:32:03 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:32:04 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:32:05 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:32:06 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:32:07 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:32:08 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:32:09 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:32:10 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:32:11 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:32:12 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:32:13 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:32:14 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:32:15 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:32:16 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:32:17 Cannot add more tickets: Pool is full or limit reached.
+2024-12-11 09:38:01 Added Ticket-1
+2024-12-11 09:38:01 Added Ticket-2
+2024-12-11 09:38:01 Added Ticket-3
+2024-12-11 09:38:02 Removed Ticket-1
+2024-12-11 09:38:02 Added Ticket-4
+2024-12-11 09:38:03 Added Ticket-5
+2024-12-11 09:38:03 Added Ticket-6
+2024-12-11 09:38:03 Customer 1 purchased Ticket-1
+2024-12-11 09:38:03 Removed Ticket-2
+2024-12-11 09:38:03 Customer 2 purchased Ticket-2
+2024-12-11 09:38:04 Vendor stopped adding tickets: All tickets listed.
+2024-12-11 09:38:04 Removed Ticket-3
+2024-12-11 09:38:04 Customer 1 purchased Ticket-3
+2024-12-11 09:38:04 Removed Ticket-4
+2024-12-11 09:38:04 Customer 2 purchased Ticket-4
+2024-12-11 09:38:05 Removed Ticket-5
+2024-12-11 09:38:05 Customer 1 purchased Ticket-5
+2024-12-11 09:38:05 Removed Ticket-6
+2024-12-11 09:38:05 Customer 2 purchased Ticket-6
+2024-12-11 09:38:06 Customer 1 has finished purchasing.
+2024-12-11 09:38:06 Customer 2 has finished purchasing.
+2024-12-11 10:01:50 Added Ticket-1
+2024-12-11 10:01:50 Added Ticket-2
+2024-12-11 10:01:50 Added Ticket-3
+2024-12-11 10:01:50 Added Ticket-4
+2024-12-11 10:01:50 Added Ticket-5
+2024-12-11 10:01:50 Added Ticket-6
+2024-12-11 10:01:50 Added Ticket-7
+2024-12-11 10:01:50 Added Ticket-8
+2024-12-11 10:01:50 Removed Ticket-1
+2024-12-11 10:01:50 Customer 2 purchased Ticket-1
+2024-12-11 10:01:51 Removed Ticket-2
+2024-12-11 10:01:51 Customer 2 purchased Ticket-2
+2024-12-11 10:01:51 Added Ticket-9
+2024-12-11 10:01:51 Added Ticket-10
+2024-12-11 10:01:51 Added Ticket-11
+2024-12-11 10:01:51 Added Ticket-12
+2024-12-11 10:01:51 Added Ticket-13
+2024-12-11 10:01:51 Added Ticket-14
+2024-12-11 10:01:51 Added Ticket-15
+2024-12-11 10:01:51 Added Ticket-16
+2024-12-11 10:01:51 Removed Ticket-3
+2024-12-11 10:01:51 Customer 1 purchased Ticket-3
+2024-12-11 10:01:52 Removed Ticket-4
+2024-12-11 10:01:52 Customer 2 purchased Ticket-4
+2024-12-11 10:01:52 Added Ticket-17
+2024-12-11 10:01:52 Added Ticket-18
+2024-12-11 10:01:52 Added Ticket-19
+2024-12-11 10:01:52 Added Ticket-20
+2024-12-11 10:01:52 Added Ticket-21
+2024-12-11 10:01:52 Added Ticket-22
+2024-12-11 10:01:52 Added Ticket-23
+2024-12-11 10:01:52 Added Ticket-24
+2024-12-11 10:01:52 Removed Ticket-5
+2024-12-11 10:01:52 Customer 1 purchased Ticket-5
+2024-12-11 10:01:53 Added Ticket-25
+2024-12-11 10:01:53 Removed Ticket-6
+2024-12-11 10:01:53 Customer 1 purchased Ticket-6
+2024-12-11 10:01:53 Removed Ticket-7
+2024-12-11 10:01:53 Customer 2 purchased Ticket-7
+2024-12-11 10:01:54 Added Ticket-26
+2024-12-11 10:01:54 Added Ticket-27
+2024-12-11 10:01:54 Removed Ticket-8
+2024-12-11 10:01:54 Customer 1 purchased Ticket-8
+2024-12-11 10:01:54 Removed Ticket-9
+2024-12-11 10:01:54 Customer 2 purchased Ticket-9
+2024-12-11 10:01:55 Added Ticket-28
+2024-12-11 10:01:55 Added Ticket-29
+2024-12-11 10:01:55 Removed Ticket-10
+2024-12-11 10:01:55 Customer 1 purchased Ticket-10
+2024-12-11 10:01:55 Removed Ticket-11
+2024-12-11 10:01:55 Customer 2 purchased Ticket-11
+2024-12-11 10:01:56 Added Ticket-30
+2024-12-11 10:01:56 Added Ticket-31
+2024-12-11 10:01:56 Removed Ticket-12
+2024-12-11 10:01:56 Customer 1 purchased Ticket-12
+2024-12-11 10:01:56 Removed Ticket-13
+2024-12-11 10:01:56 Customer 2 purchased Ticket-13
+2024-12-11 10:01:57 Added Ticket-32
+2024-12-11 10:01:57 Added Ticket-33
+2024-12-11 10:01:57 Removed Ticket-14
+2024-12-11 10:01:57 Customer 1 purchased Ticket-14
+2024-12-11 10:01:57 Removed Ticket-15
+2024-12-11 10:01:57 Customer 2 purchased Ticket-15
+2024-12-11 10:01:58 Added Ticket-34
+2024-12-11 10:01:58 Added Ticket-35
+2024-12-11 10:01:58 Removed Ticket-16
+2024-12-11 10:01:58 Customer 1 purchased Ticket-16
+2024-12-11 10:01:58 Removed Ticket-17
+2024-12-11 10:01:58 Customer 2 purchased Ticket-17
+2024-12-11 10:01:59 Removed Ticket-18
+2024-12-11 10:01:59 Customer 1 purchased Ticket-18
+2024-12-11 10:01:59 Added Ticket-36
+2024-12-11 10:01:59 Added Ticket-37
+2024-12-11 10:01:59 Added Ticket-38
+2024-12-11 10:01:59 Removed Ticket-19
+2024-12-11 10:01:59 Customer 2 purchased Ticket-19
+2024-12-11 10:02:00 Added Ticket-39
+2024-12-11 10:02:00 Removed Ticket-20
+2024-12-11 10:02:00 Customer 1 purchased Ticket-20
+2024-12-11 10:02:00 Removed Ticket-21
+2024-12-11 10:02:00 Customer 2 purchased Ticket-21
+2024-12-11 10:02:01 Added Ticket-40
+2024-12-11 10:02:01 Removed Ticket-22
+2024-12-11 10:02:01 Customer 1 purchased Ticket-22
+2024-12-11 10:02:01 Removed Ticket-23
+2024-12-11 10:02:01 Customer 2 purchased Ticket-23
+2024-12-11 10:02:02 Vendor stopped adding tickets: All tickets listed.
+2024-12-11 10:02:02 Removed Ticket-24
+2024-12-11 10:02:02 Customer 1 purchased Ticket-24
+2024-12-11 10:02:02 Removed Ticket-25
+2024-12-11 10:02:02 Customer 2 purchased Ticket-25
+2024-12-11 10:02:03 Removed Ticket-26
+2024-12-11 10:02:03 Customer 1 purchased Ticket-26
+2024-12-11 10:02:03 Removed Ticket-27
+2024-12-11 10:02:03 Customer 2 purchased Ticket-27
+2024-12-11 10:02:04 Removed Ticket-28
+2024-12-11 10:02:04 Customer 1 purchased Ticket-28
+2024-12-11 10:02:04 Removed Ticket-29
+2024-12-11 10:02:04 Customer 2 purchased Ticket-29
+2024-12-11 10:02:05 Removed Ticket-30
+2024-12-11 10:02:05 Customer 1 purchased Ticket-30
+2024-12-11 10:02:05 Removed Ticket-31
+2024-12-11 10:02:05 Customer 2 purchased Ticket-31
+2024-12-11 10:02:06 Removed Ticket-32
+2024-12-11 10:02:06 Customer 1 purchased Ticket-32
+2024-12-11 10:02:06 Removed Ticket-33
+2024-12-11 10:02:06 Customer 2 purchased Ticket-33
+2024-12-11 10:02:07 Removed Ticket-34
+2024-12-11 10:02:07 Customer 1 purchased Ticket-34
+2024-12-11 10:02:07 Removed Ticket-35
+2024-12-11 10:02:07 Customer 2 purchased Ticket-35
+2024-12-11 10:02:08 Removed Ticket-36
+2024-12-11 10:02:08 Customer 1 purchased Ticket-36
+2024-12-11 10:02:08 Removed Ticket-37
+2024-12-11 10:02:08 Customer 2 purchased Ticket-37
+2024-12-11 10:02:09 Removed Ticket-38
+2024-12-11 10:02:09 Customer 1 purchased Ticket-38
+2024-12-11 10:02:09 Removed Ticket-39
+2024-12-11 10:02:09 Customer 2 purchased Ticket-39
+2024-12-11 10:02:10 Removed Ticket-40
+2024-12-11 10:02:10 Customer 1 purchased Ticket-40
+2024-12-11 10:02:10 Customer 2 has finished purchasing.
+2024-12-11 10:02:11 Customer 1 has finished purchasing.
