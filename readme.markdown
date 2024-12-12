@@ -48,7 +48,7 @@ following installed:
 
     -   If you are using Git, clone the repository:
 
-    -   git clone \<repository_url\>
+    -   git clone \https://github.com/dgeshanwijerathna/ticketbookingsystem.git
 
     -   Alternatively, download the ZIP file and extract it to your
         desired location.
